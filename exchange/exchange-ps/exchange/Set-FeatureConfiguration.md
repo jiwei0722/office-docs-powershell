@@ -24,7 +24,6 @@ For information about the parameter sets in the Syntax section below, see [Excha
 Set-FeatureConfiguration [-Identity] <Microsoft.Office.CompliancePolicy.Tasks.PolicyIdParameter> [-Locations <String>] [-Comment <String>]
  [-Confirm]
  [-Mode <Microsoft.Office.CompliancePolicy.Tasks.PolicyMode>]
- [-Scenario <Microsoft.Office.CompliancePolicy.Tasks.FeatureConfigurationScenario>]
  [-ScenarioConfig <String>]
  [-WhatIf]
  [<CommonParameters>]
