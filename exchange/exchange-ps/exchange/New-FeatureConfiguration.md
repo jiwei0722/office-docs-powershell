@@ -145,7 +145,7 @@ Accept wildcard characters: False
 ```
 
 ### -Locations
-{{ Fill Locations Description }}
+The locations parameter specifies where the policy applies.
 
 ```yaml
 Type: String
